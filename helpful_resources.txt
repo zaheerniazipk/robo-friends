@@ -6,3 +6,6 @@ https://robohash.org/
 
 Sega Logo Font:
 https://www.cufonfonts.com/font/sega-logo-font
+
+Fake RESTful API:
+https://jsonplaceholder.typicode.com/users

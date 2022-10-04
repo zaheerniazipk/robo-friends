@@ -3,3 +3,6 @@ https://tachyons.io/
 
 Generate images from any text:
 https://robohash.org/
+
+Sega Logo Font:
+https://www.cufonfonts.com/font/sega-logo-font
